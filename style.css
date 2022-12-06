@@ -1,0 +1,21 @@
+body{
+    background-color: forestgreen;
+
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    border: 2px black dashed;
+}
+
+
+.container{
+    text-align: center;
+}
+
+#boton{
+    text-decoration: dashed;
+    text-size-adjust: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
